@@ -1,4 +1,5 @@
 // rough draft
+
 $(document).ready(function() {
 
     var entry = '';
